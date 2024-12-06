@@ -1,4 +1,8 @@
 torch
 zetascale
 einops
-torch 
+requests==2.27
+tiktoken
+qwen_vl_utils
+decord
+timm
